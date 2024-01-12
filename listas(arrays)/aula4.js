@@ -8,3 +8,4 @@ for (let i = 0; i< lista.length; i++) {
     }
     
 }
+nunca consigo fazer isso de primeiraaaaaaa``
